@@ -1,3 +1,3 @@
 # test
 
-This is to test the first repository created
+This is for testing the first repository.
