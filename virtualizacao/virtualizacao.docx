@@ -1,0 +1,37 @@
+
+Virtualização
+
+
+Conceito: 
+
+	Virtualização consiste num tipo de tecnologia que exclui qualquer tipo de interrupção, ocultando a ideia de como os computadores físicos são manipulados, de como os serviços são entregues e os orçamentos são disponibilizados.
+
+	A virtualização em computação é referido muitas vezes para a abstração de qualquer componente físico num objeto lógico. Durante a virtualização de um objeto, é possível obter uma determinada medida, no que diz respeito à utilização de recursos de onde o objeto é proporcionado.
+
+	Como exemplo disso, podemos referir as LAN's virtuais (local area networks) ou VLAN's, que proporciona um bom desempenho na rede e melhora na gestão, pois a causa principal é a separação entre estes e o hardware. Da mesma forma, as redes de área de armazenamento ou SAN's (Storage Area Networks) contribuem para uma boa flexibilidade, maior disponibilidade e mais eficiencia no uso dos recursos do armazenamento, abstraindo os dispositivos físicos em objetos lógicos, cujos estes, poderão ser rápidos e facilmente manipulados.
+
+	VM- Virtual Machine ou máquina virtual.
+	VMM (Virtual Machine Manager)- Conhecido na atualidade como hypervisor, VMM trata-se de um software que é responsável por proporcionar o ambiente, onde a VM opera. 
+
+	Segundo Popek e Goldberg, uma VMM precisa de exibir três propiedades:
+
+Fidelidade – O ambiente criado para o VM terá que ser essencialmente identico ao ambiente original (de hardware) numa máquina física;
+
+Isolação ou segurança – A VMM deverá ter um controlo completo dos recursos do sistema;
+
+Perfomance – Não deverá ter quaisquer diferença entre uma VM e a máquia física a nível de desempenho.
+
+
+		
+
+
+
+	
+
+	
+
+	
+
+
+
+
